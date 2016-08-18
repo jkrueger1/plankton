@@ -10,10 +10,11 @@ Plankton can be run directly using Python 2.7 or 3.x, or using a
 prepackaged Docker image that includes all dependencies. See relevant
 usage sections for details.
 
-Resources: -
-`GitHub <https://github.com/DMSC-Instrument-Data/plankton>`__ -
-`DockerHub <https://hub.docker.com/r/dmscid/plankton/>`__ -
-`Dockerfile <https://github.com/DMSC-Instrument-Data/plankton/blob/master/Dockerfile>`__
+Resources:
+
+- `GitHub <https://github.com/DMSC-Instrument-Data/plankton>`__
+- `DockerHub <https://hub.docker.com/r/dmscid/plankton/>`__
+- `Dockerfile <https://github.com/DMSC-Instrument-Data/plankton/blob/master/Dockerfile>`__
 
 Purpose and Use Cases
 ---------------------
